@@ -102,5 +102,5 @@ INSERT INTO tenders (owner, name, date, starting_price, current_price, descripti
 Тип питания: Сеть
 Режимы работы: Сверление с ударом');
 
-INSERT INTO tenders (owner, name, date, starting_price, current_price, description, executant) VALUE ('StroiIngenerGroup', '', '2023-01-10', 17200, 12900, 'Закупка станка настольно-сверлильного для объекта: «Строительство свиноводческого репродуктора на 3600 голов основных свиноматок в ОАО "Климовичский комбинат хлебопродуктов»', 'ggktu');
+INSERT INTO tenders (owner, name, date, starting_price, current_price, description, executant) VALUE ('StroiIngenerGroup', 'Станок настолько-сверлильный', '2023-01-10', 17200, 12900, 'Закупка станка настольно-сверлильного для объекта: «Строительство свиноводческого репродуктора на 3600 голов основных свиноматок в ОАО "Климовичский комбинат хлебопродуктов»', 'ggktu');
 
