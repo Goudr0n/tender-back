@@ -1,0 +1,34 @@
+html, body {
+    background-color: rgba(211, 211, 211, 0.1);
+    height: auto;
+    padding: 0;
+    margin: auto;
+}
+
+body {
+    background-color: rgba(53, 100, 146, 0.1);
+    font-family: Arial, Helvetica, sans-serif;
+    border-left: 2px solid rgba(248, 97, 35, 0.5);
+    border-right: 2px solid rgba(248, 97, 35, 0.5);
+    -webkit-box-shadow: 15px 0px 40px 0px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 15px 0px 40px 0px rgba(0, 0, 0, 0.3);
+    box-shadow: 15px 0px 40px 0px rgba(0, 0, 0, 0.3);
+}
+
+#text-header {
+    text-align: center;
+    margin: 0 0 30px;
+    font-size: 25px;
+}
+
+#back-btn {
+    background-color: #356492;
+    color: white;
+    padding: 15px 20px;
+    display: block;
+    margin: 20px auto 0;
+    border: none;
+    cursor: pointer;
+    width: 300px;
+    font-size: 20px;
+}
